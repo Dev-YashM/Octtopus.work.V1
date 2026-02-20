@@ -1,3 +1,6 @@
+*Octtopus – AI Meeting Summarizer & Transcriptor*
+-
+
 🚀 Overview
 -----------------
 Octtopus is an AI-powered desktop meeting assistant that automatically detects online meetings and generates:
@@ -123,7 +126,8 @@ Pull requests are welcome 🚀
 -----------------
 
 👨‍💻 Yash Maske
-LinkedIn: linkedinurl/yash-maske
+LinkedIn: https://www.linkedin.com/in/yash-maske
+
 Email: grindwithyash@gmail.com
 
 ⭐ Why Open Source?
