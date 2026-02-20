@@ -126,9 +126,16 @@ Pull requests are welcome 🚀
 -----------------
 
 👨‍💻 Yash Maske
+
 LinkedIn: https://www.linkedin.com/in/yash-maske
 
 Email: grindwithyash@gmail.com
+
+👨‍💻 Amey Patil 
+
+LinkedIn: https://www.linkedin.com/in/amey-patil
+
+Email: thinkamey45@gmail.com
 
 ⭐ Why Open Source?
 ------------------------
